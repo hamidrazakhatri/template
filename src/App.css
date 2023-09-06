@@ -1,0 +1,28 @@
+@font-face {
+  font-family: popines;
+  src: url('./fonts/Poppins-Light.ttf');
+}
+*{
+  font-family: poppines;
+}
+
+
+.h5{
+  color: #333 !important;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.dote{
+  color:#00B074;
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.bg1{
+  background-color:;
+}
